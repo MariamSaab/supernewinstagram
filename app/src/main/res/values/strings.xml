@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Instaphoto</string>
+
+        <string name="camera">Камера</string>
+        <string name="gallery">Галлерея</string>
+        <string name="like">Нравится</string>
+        <string name="empty_like">Вы можете поставить лайк этой фотографии!</string>
+        <string name="error_response">Ошибка!</string>
+    </resources>
+
